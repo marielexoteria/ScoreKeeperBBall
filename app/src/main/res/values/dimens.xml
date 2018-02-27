@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_button">8dp</dimen>
+    <dimen name="text_labels">14sp</dimen>
+    <dimen name="text_scores">56sp</dimen>
+    <dimen name="margin_left_and_right">24dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_bottom">60dp</dimen>
+    <dimen name="margin_bottom_reset">32dp</dimen>
+    <dimen name="margin_bottom_score">24dp</dimen>
+    <dimen name="margin_between_stats">4dp</dimen>
+    <dimen name="margin_bottom_stats">15dp</dimen>
+    <dimen name="dimension_zero_dp">0dp</dimen>
+</resources>

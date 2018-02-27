@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScoreKeeper Basketball</string>
+    <string name="label_team_a">Team A</string>
+    <string name="team_a_initial_score">0</string>
+    <string name="button_three_points">+3 points</string>
+    <string name="button_two_points">+2 points</string>
+    <string name="button_free_throw">Free throw</string>
+    <string name="label_team_b">Team B</string>
+    <string name="team_b_initial_score">0</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_foul">Foul</string>
+    <string name="label_three_points">3 pts: 0</string>
+    <string name="label_two_points">2 pts: \u00200</string>
+    <string name="label_one_point">Free: \u00200</string>
+    <string name="label_fouls">Fouls: 0</string>
+</resources>
